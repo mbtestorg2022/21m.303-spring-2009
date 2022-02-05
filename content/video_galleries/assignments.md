@@ -32,14 +32,102 @@ Using models from the string quartets and other works by Haydn, Mozart and Beeth
 
 These compositions were performed by an anonymous professional string quartet.
 
-| STUDENT composerS | SCORES | AUDIO RECORDINGS |
-| --- | --- | --- |
-| Anonymous MIT student | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn01_comp01_anon.pdf)) | [iTunes U (MP3 - 2.3MB)](https://itunes.apple.com/us/itunes-u/id354869194)  {{< br >}}Internet Archive ([MP3 - 2.3MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_anon.mp3)) |
-| Carrie Keach | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn02_comp01_keach.pdf)) | [iTunes U (MP3 - 2.7MB)](https://itunes.apple.com/us/itunes-u/id354869194)  {{< br >}}Internet Archive ([MP3 - 2.7MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_keach.mp3)) |
-| Thanasin Nampaisarn | not available | [iTunes U (MP3 - 3.6MB)](https://itunes.apple.com/us/itunes-u/id354869194)  {{< br >}}Internet Archive ([MP3 - 3.6MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_nampaisarn.mp3)) |
-| Kathryn Shroyer | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn03_comp01_shroyer.pdf)) | [iTunes U (MP3 - 3.5MB)](https://itunes.apple.com/us/itunes-u/id354869194)  {{< br >}}Internet Archive ([MP3 - 3.5MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_shroyer.mp3)) |
-| Eli Stickgold | not available | [iTunes U (MP3 - 3.1MB)](https://itunes.apple.com/us/itunes-u/id354869194)  {{< br >}}Internet Archive ([MP3 - 3.1MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_stickgold.mp3)) |
-| Stephanie Wu | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn04_comp01_wu.pdf)) | [iTunes U (MP3 - 5.1MB)](https://itunes.apple.com/us/itunes-u/id354869194)  {{< br >}}Internet Archive ([MP3 - 5.1MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_wu.mp3)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENT composerS
+{{< thclose >}}
+{{< thopen >}}
+SCORES
+{{< thclose >}}
+{{< thopen >}}
+AUDIO RECORDINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Anonymous MIT student
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn01_comp01_anon.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+[iTunes U (MP3 - 2.3MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
+Internet Archive ([MP3 - 2.3MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_anon.mp3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Carrie Keach
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn02_comp01_keach.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+[iTunes U (MP3 - 2.7MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
+Internet Archive ([MP3 - 2.7MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_keach.mp3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Thanasin Nampaisarn
+{{< tdclose >}}
+{{< tdopen >}}
+not available
+{{< tdclose >}}
+{{< tdopen >}}
+[iTunes U (MP3 - 3.6MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
+Internet Archive ([MP3 - 3.6MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_nampaisarn.mp3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Kathryn Shroyer
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn03_comp01_shroyer.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+[iTunes U (MP3 - 3.5MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
+Internet Archive ([MP3 - 3.5MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_shroyer.mp3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Eli Stickgold
+{{< tdclose >}}
+{{< tdopen >}}
+not available
+{{< tdclose >}}
+{{< tdopen >}}
+[iTunes U (MP3 - 3.1MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
+Internet Archive ([MP3 - 3.1MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_stickgold.mp3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Stephanie Wu
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn04_comp01_wu.pdf))
+{{< tdclose >}}
+{{< tdopen >}}
+[iTunes U (MP3 - 5.1MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
+Internet Archive ([MP3 - 5.1MB](http://www.archive.org/download/MIT21M.303S09/assn_sq_wu.mp3))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Lied (Song) for Soprano and Piano
 

@@ -7,12 +7,66 @@ uid: 84f8b278-b0a5-3d42-a18d-1dfd8b9c27d0
 Minuet Models by Prof. Child
 ----------------------------
 
-| MODELS | OUTER VOICES ONLY | COMPLETE STRING QUARTET |
-| --- | --- | --- |
-| SCORES | SCORES | MIDI RENDITIONS |
-| --- | --- | --- |
-| Model 1: returning to the tonic using V7 | ([PDF]({{< baseurl >}}/resources/mit21m_303s09_study_01a)) | ([PDF]({{< baseurl >}}/resources/mit21m_303s09_study_01b)) | ([MP3 - 1.1MB]({{< baseurl >}}/resources/study_1b)) |
-| Model 2: returning to the tonic using circle of fifths progression | ([PDF]({{< baseurl >}}/resources/mit21m_303s09_study_02a)) | ([PDF]({{< baseurl >}}/resources/mit21m_303s09_study_02b)) | ([MP3 - 1.1MB]({{< baseurl >}}/resources/study_2b)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MODELS
+{{< thclose >}}
+{{< thopen >}}
+OUTER VOICES ONLY
+{{< thclose >}}
+{{< thopen >}}
+COMPLETE STRING QUARTET
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+SCORES
+{{< thclose >}}
+{{< thopen >}}
+SCORES
+{{< thclose >}}
+{{< thopen >}}
+MIDI RENDITIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Model 1: returning to the tonic using V7
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_303s09_study_01a))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_303s09_study_01b))
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 1.1MB]({{< baseurl >}}/resources/study_1b))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Model 2: returning to the tonic using circle of fifths progression
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_303s09_study_02a))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit21m_303s09_study_02b))
+{{< tdclose >}}
+{{< tdopen >}}
+([MP3 - 1.1MB]({{< baseurl >}}/resources/study_2b))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Lewis Music Library Resources
 ---------------------------------
