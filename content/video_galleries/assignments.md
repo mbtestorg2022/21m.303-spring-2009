@@ -53,7 +53,7 @@ AUDIO RECORDINGS
 Anonymous MIT student
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn01_comp01_anon.pdf))
+([PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn01_comp01_anon.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 [iTunes U (MP3 - 2.3MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
@@ -66,7 +66,7 @@ Internet Archive ([MP3 - 2.3MB](http://www.archive.org/download/MIT21M.303S09/as
 Carrie Keach
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn02_comp01_keach.pdf))
+([PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn02_comp01_keach.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 [iTunes U (MP3 - 2.7MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
@@ -92,7 +92,7 @@ Internet Archive ([MP3 - 3.6MB](http://www.archive.org/download/MIT21M.303S09/as
 Kathryn Shroyer
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn03_comp01_shroyer.pdf))
+([PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn03_comp01_shroyer.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 [iTunes U (MP3 - 3.5MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
@@ -118,7 +118,7 @@ Internet Archive ([MP3 - 3.1MB](http://www.archive.org/download/MIT21M.303S09/as
 Stephanie Wu
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn04_comp01_wu.pdf))
+([PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn04_comp01_wu.pdf))
 {{< tdclose >}}
 {{< tdopen >}}
 [iTunes U (MP3 - 5.1MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
