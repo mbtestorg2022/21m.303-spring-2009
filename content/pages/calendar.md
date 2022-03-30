@@ -258,7 +258,7 @@ Bring to class your 2 selected texts for your song composition; we will read the
 
 Begin work on your song. Sketch parts of your vocal line and ideas for a piano accompaniment. Write a piano introduction
 
-In addition, familiarize yourself with Schumann's Dichterliebe, Nos. 1-7. You'll find that the songs are full of enigma: What key is the first song in? Where do phrases end in song 2 _(Aus meinen Tra![](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/calendar/trainword.jpg) en sprießen)?_ Where is the climax in song 4 _(Wenn ich in deine Augen seh')_? What is the opening chord in song 5 _(Ich will meine Seele tauchen)_, and what is its effect? What modifications does Schumann make to Heine's poem in Song 7 _(Ich grolle nicht)_ and what effect does this have on the musical form?
+In addition, familiarize yourself with Schumann's Dichterliebe, Nos. 1-7. You'll find that the songs are full of enigma: What key is the first song in? Where do phrases end in song 2 _(Aus meinen Tra{{< resource "709093a2-8554-99fb-ca36-ab83c1ab3501" >}} en sprießen)?_ Where is the climax in song 4 _(Wenn ich in deine Augen seh')_? What is the opening chord in song 5 _(Ich will meine Seele tauchen)_, and what is its effect? What modifications does Schumann make to Heine's poem in Song 7 _(Ich grolle nicht)_ and what effect does this have on the musical form?
 
 
 {{< tdclose >}}

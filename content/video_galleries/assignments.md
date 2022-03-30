@@ -17,9 +17,9 @@ videos:
 Exercises
 ---------
 
-Minuet exercise 1 ([PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn01_ex01.pdf))
+Minuet exercise 1 ({{% resource_link "ddcb9a79-cc5b-2ad2-0866-d77806bccc21" "PDF" %}})
 
-Minuet exercise 2 ([PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn02_ex02.pdf))
+Minuet exercise 2 ({{% resource_link "4de2870f-7623-7f4c-8d64-4ff2e4d603d8" "PDF" %}})
 
 Composition Projects
 --------------------
@@ -53,7 +53,7 @@ AUDIO RECORDINGS
 Anonymous MIT student
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn01_comp01_anon.pdf))
+({{% resource_link "4daea391-27fd-c170-683d-b7d29ac8d6ab" "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [iTunes U (MP3 - 2.3MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
@@ -66,7 +66,7 @@ Internet Archive ([MP3 - 2.3MB](http://www.archive.org/download/MIT21M.303S09/as
 Carrie Keach
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn02_comp01_keach.pdf))
+({{% resource_link "5f201159-61ea-96bb-e4eb-768028854a65" "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [iTunes U (MP3 - 2.7MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
@@ -92,7 +92,7 @@ Internet Archive ([MP3 - 3.6MB](http://www.archive.org/download/MIT21M.303S09/as
 Kathryn Shroyer
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn03_comp01_shroyer.pdf))
+({{% resource_link "3c8986ab-d96a-6e65-1234-e966a5b9dce2" "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [iTunes U (MP3 - 3.5MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
@@ -118,7 +118,7 @@ Internet Archive ([MP3 - 3.1MB](http://www.archive.org/download/MIT21M.303S09/as
 Stephanie Wu
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn04_comp01_wu.pdf))
+({{% resource_link "e4247b06-0d26-4db9-d500-b0af5802a03b" "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 [iTunes U (MP3 - 5.1MB)](https://itunes.apple.com/us/itunes-u/id354869194)  
@@ -133,7 +133,7 @@ Internet Archive ([MP3 - 5.1MB](http://www.archive.org/download/MIT21M.303S09/as
 
 The models for this project are the songs of Schubert and Schumann.
 
-Example poems that one might use as a song's text ([PDF](/courses/music-and-theater-arts/21m-303-writing-in-tonal-forms-i-spring-2009/assignments/MIT21M_303s09_assn05_poems.pdf))
+Example poems that one might use as a song's text ({{% resource_link "e85915e7-3a58-689c-f6d1-5bf9225716ef" "PDF" %}})
 
 The student songs were performed by visiting artists Janna Baty, voice, and Daniel Curtis, piano. After each performance, they also gave constructive feedback to each student.  For each song, video and audio recordings of the performance and feedback, along with most of the written scores, are linked in the following table.
 
